@@ -1,0 +1,21 @@
+# Dependencies & Build
+node_modules/
+.vercel/
+dist/
+build/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing & Dev tools
+.playwright-mcp/
+.tempmediaStorage/
+*.log
